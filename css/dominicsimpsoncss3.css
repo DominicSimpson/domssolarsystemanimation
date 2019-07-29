@@ -819,6 +819,11 @@ p a:hover, a:focus
 	border-radius: 		228px;
 }
 
+#sun img {
+	position: relative;
+	border-radius: 50%;
+}
+
 /* Planets */
 
 .hide
