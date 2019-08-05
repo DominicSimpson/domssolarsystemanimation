@@ -10,4 +10,12 @@ $(document).ready(function() {
 	$("#venus").click(function() {
 		$("#venusinvisible").toggleClass("show");
 	});
+
+	$("#earth").click(function() {
+		$("#earthinvisible").toggleClass("show");
+	});
+
+	$("#moon").click(function() {
+		$("#mooninvisible").toggleClass("show");
+	})
 });
